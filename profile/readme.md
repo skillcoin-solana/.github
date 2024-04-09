@@ -1,4 +1,4 @@
-We were considering creating a website where individuals could exchange their skills for digital currencies such as Bitcoin. It wouldn't just be a platform for swapping skills; it would also serve as a tool to introduce more people to the concept and usage of cryptocurrencies.
+We were considering creating a website where individuals could exchange their skills for digital currencies such as Solana. It wouldn't just be a platform for swapping skills; it would also serve as a tool to introduce more people to the concept and usage of cryptocurrencies.
 
 Picture a straightforward website where you can showcase your talents, whether it's graphic design, writing, coding, or any other skill, and receive payment in digital currencies. It would function as a welcoming community where members support each other.
 
